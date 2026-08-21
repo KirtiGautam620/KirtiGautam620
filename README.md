@@ -9,11 +9,11 @@
 ```
 </h4>
 
-<img width=100% height=1px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxY2VlNHF2NDk2OTd6cTRlMTIwbmxrMTJvc3YwNnFobTR0ZGtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif">
+<img width=100% height=2px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxY2VlNHF2NDk2OTd6cTRlMTIwbmxrMTJvc3YwNnFobTR0ZGtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=29&pause=1000&color=E9A13B&background=FFFFFF00&center=true&width=700&height=60&lines=Hi+there!+I'm+Kirti+Gautam;Agentic+AI+%26+Full-Stack+Developer;Always+curious%2C+always+building" alt="Typing SVG" /></a>
 
-<img width=100% height=1px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxY2VlNHF2NDk2OTd6cTRlMTIwbmxrMTJvc3YwNnFobTR0ZGtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif">
+<img width=100% height=2px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxY2VlNHF2NDk2OTd6cTRlMTIwbmxrMTJvc3YwNnFobTR0ZGtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -24,7 +24,7 @@
 
 <h2 align="left">About me</h2>
 
-<img align="right" height="200" width="220" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height=50% width=40% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 <p>
 👩‍💻 Computer Science (AI/ML) student at NST-ADYPU, Pune. <br>

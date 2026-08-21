@@ -1,12 +1,7 @@
-
+<p align="center">
+  <img src="./kirti-gautam-banner.svg" alt="Kirti Gautam Banner" width="100%">
+</p> 
   
-```diff
-                                      +-----------------------------------------+
-                                      |╦╔═ ┬ ┬─┐ ┌┬┐ ┬   ╔═╗ ┌─┐ ┬ ┬ ┌┬┐ ┌─┐ ┌┬┐|
-                                      |╠╩╗ │ ├┬┘  │  │   ║ ╦ ├─┤ │ │  │  ├─┤ │││|
-                                      |╩ ╩ ┴ ┴└─  ┴  ┴   ╚═╝ ┴ ┴ └─┘  ┴  ┴ ┴ ┴ ┴|
-                                      +-----------------------------------------+
-```
 </h4>
 
 <img width=100% height=2px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxY2VlNHF2NDk2OTd6cTRlMTIwbmxrMTJvc3YwNnFobTR0ZGtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif">

@@ -124,14 +124,6 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p align="center">
-  <a href="https://github.com/KirtiGautam620">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KirtiGautam620&show_icons=true&hide_border=false&title_color=E9A13B&icon_color=5FD3B0&text_color=E6E1D7&bg_color=0E1116&count_private=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/KirtiGautam620">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiGautam620&text_color=E6E1D7&bg_color=0E1116&title_color=E9A13B&langs_count=8&layout=compact&hide_border=false" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirtiGautam620&theme=dark&hide_border=false&ring=E9A13B&fire=E9A13B&currStreakLabel=5FD3B0" alt="streak stats" />

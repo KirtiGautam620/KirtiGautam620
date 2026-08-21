@@ -15,9 +15,16 @@
 
 <img width=100% height=1px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxY2VlNHF2NDk2OTd6cTRlMTIwbmxrMTJvc3YwNnFobTR0ZGtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif">
 
-<img align="right" height="250" width="250" src="ADD_A_SQUARE_IMAGE_HERE"  />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
 
 <h2 align="left">About me</h2>
+
+<img align="right" height="200" width="220" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 <p>
 👩‍💻 Computer Science (AI/ML) student at NST-ADYPU, Pune. <br>

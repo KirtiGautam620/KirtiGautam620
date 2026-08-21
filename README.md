@@ -1,31 +1,167 @@
-name: Generate Snake
+<h4 align="center">
+  
+```diff
++-------------------------------+
+|╦╔═┬┬─┐┌┬┐┬  ╔═╗┌─┐┬ ┬┌┬┐┌─┐┌┬┐|
+|╠╩╗│├┬┘ │ │  ║ ╦├─┤│ │ │ ├─┤│││|
+|╩ ╩┴┴└─ ┴ ┴  ╚═╝┴ ┴└─┘ ┴ ┴ ┴┴ ┴|
++-------------------------------+
+```
+</h4>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+<img width=100% height=1px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxY2VlNHF2NDk2OTd6cTRlMTIwbmxrMTJvc3YwNnFobTR0ZGtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif">
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: KirtiGautam620
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=29&pause=1000&color=E9A13B&background=FFFFFF00&center=true&width=700&height=60&lines=Hi+there!+I'm+Kirti+Gautam;Agentic+AI+%26+Full-Stack+Developer;Always+curious%2C+always+building" alt="Typing SVG" /></a>
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img width=100% height=1px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxY2VlNHF2NDk2OTd6cTRlMTIwbmxrMTJvc3YwNnFobTR0ZGtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif">
+
+<img align="right" height="250" width="250" src="ADD_A_SQUARE_IMAGE_HERE"  />
+
+<h2 align="left">About me</h2>
+
+<p>
+👩‍💻 AI/ML student at NST-ADYPU, Pune. <br>
+🤖 Building agentic AI systems at Bugni Labs. <br>
+🧪 I ask too many questions and then go find out myself. <br>
+🎨 Somewhere between engineering and making things look good. <br>
+🌱 Currently deep in LangGraph, agent evals and React Native. <br>
+✉️ Connect: <a href="mailto:YOUR-EMAIL">YOUR-EMAIL</a>
+</p>
+
+###
+
+<h2 align="left">I Code With</h2>
+
+###
+
+<h3 align="left">💻 Programming Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp" alt="Programming Languages" />
+  </a>
+</p>
+
+###
+
+<h3 align="left">🎨 Frontend Development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma" alt="Frontend Development" />
+  </a>
+</p>
+
+###
+
+<h3 align="left">🧩 Frameworks & Libraries</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,astro" alt="Frameworks and Libraries" />
+  </a>
+</p>
+
+###
+
+<h3 align="left">⚙️ Backend Development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Development" />
+  </a>
+</p>
+
+###
+
+<h3 align="left">🗄️ Databases</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" alt="Databases" />
+  </a>
+</p>
+
+###
+
+<h3 align="left">🤖 AI / Agents</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-E9A13B?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+###
+
+<h3 align="left">🛠️ Tools & Platforms</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,blender" alt="Tools and Platforms" />
+  </a>
+</p>
+
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo">
+  </a>
+  <a href="mailto:YOUR-EMAIL" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo">
+  </a>
+  <a href="https://mathuraprasad.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/globe/default.svg" width="52" height="40" alt="Website logo">
+  </a>
+</div>
+
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+<p align="center">
+  <a href="https://github.com/KirtiGautam620">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KirtiGautam620&show_icons=true&hide_border=false&title_color=E9A13B&icon_color=5FD3B0&text_color=E6E1D7&bg_color=0E1116&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/KirtiGautam620">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiGautam620&text_color=E6E1D7&bg_color=0E1116&title_color=E9A13B&langs_count=8&layout=compact&hide_border=false" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirtiGautam620&theme=dark&hide_border=false&ring=E9A13B&fire=E9A13B&currStreakLabel=5FD3B0" alt="streak stats" />
+</p>
+
+###
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KirtiGautam620/KirtiGautam620/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KirtiGautam620/KirtiGautam620/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br clear="both">
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=KirtiGautam620&bg_color=0E1116&color=E6E1D7&line=E9A13B&point=5FD3B0&hide_border=true&area=true)
+
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@                                                     @@
+@@                                                     @@
+@@          I ask too many questions and then          @@
+@@                go find out myself                   @@
+@@                                                     @@
+@@          .-------------------------------.          @@
+@@         |  while (curious) { build(); }   |         @@
+@@          '-------------------------------'          @@
+@@                                                     @@
+@@                Easily obsessed.                     @@
+@@                 Rarely bored. ✨                     @@
+@@                                                     @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</h4>

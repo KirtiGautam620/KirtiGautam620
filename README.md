@@ -1,25 +1,31 @@
-## Kirti Gautam
+name: Generate Snake
 
-Third-year B.Tech AI/ML student at Newton School of Technology, Pune.
-I build agentic AI systems and the full-stack products around them.
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-**Currently** — Agentic AI Intern at Bugni Labs, building automation for banking and fintech.
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: KirtiGautam620
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-### Selected work
-
-| Project | What it does |
-|---|---|
-| **MedusaAI** | Research agent that plans, searches, and synthesizes answers |
-| **Telesana** | Telemedicine platform with patient records and scheduling |
-| **mathuraprasad.com** | Production bilingual site with WhatsApp booking and UPI payments |
-| **reneo** | Order-processing backend with concurrency handling |
-
-### Toolkit
-
-**AI / Agents** — LangGraph · Groq · RAG · tool-calling loops
-
-**Web** — React · Next.js · React Native · TypeScript
-
-**Backend** — FastAPI · Node · Supabase · PostgreSQL
-
-**Salesforce** — Lightning Web Components · Apex · SOQL
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

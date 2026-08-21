@@ -1,47 +1,46 @@
 
-name: Generate GitHub Stats
+name: Update README Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v6
 
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          username: KirtiGautam620
-          output: profile/stats.svg
+          card: stats
+          options: username=KirtiGautam620&show_icons=true&hide_border=false&title_color=E9A13B&icon_color=5FD3B0&text_color=E6E1D7&bg_color=0E1116&count_private=true&include_all_commits=true
+          path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@master
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          username: KirtiGautam620
-          output: profile/top-langs.svg
+          card: top-langs
+          options: username=KirtiGautam620&text_color=E6E1D7&bg_color=0E1116&title_color=E9A13B&langs_count=8&layout=compact&hide_border=false
+          path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit changes
+      - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/
+          git add profile/*.svg
 
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update GitHub stats"
-            git push
-          fi
+          git commit -m "Update README cards" || exit 0
+
+          git push
 

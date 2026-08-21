@@ -1,4 +1,4 @@
-<img width="558" height="510" alt="Screenshot 2026-08-21 at 10 34 52 AM" src="https://github.com/user-attachments/assets/1ecdbff1-0956-453e-b8c6-ca0cbf5b7cb6" /><h4 align="center">
+
   
 ```diff
 +-----------------------------------------+
@@ -20,12 +20,13 @@
 <h2 align="left">About me</h2>
 
 <p>
-👩‍💻 AI/ML student at NST-ADYPU, Pune. <br>
-🤖 Building agentic AI systems at Bugni Labs. <br>
-🧪 I ask too many questions and then go find out myself. <br>
-🎨 Somewhere between engineering and making things look good. <br>
-🌱 Currently deep in LangGraph, agent evals and React Native. <br>
-✉️ Connect: <a href="mailto:YOUR-EMAIL">gautamkirti620@gmail.com</a>
+👩‍💻 Computer Science (AI/ML) student at NST-ADYPU, Pune. <br>
+🚀 Developer Intern, building full-stack applications and backend systems. <br>
+🧠 Exploring AI/ML, LLMs, LangGraph, and intelligent applications. <br>
+⚡ Working with React, Next.js, Node.js, TypeScript, Supabase & PostgreSQL. <br>
+🧩 Currently sharpening my DSA, problem-solving, and system design skills. <br>
+🎨 I like building things that are not only functional, but also look good. <br>
+✉️ Connect: <a href="mailto:gautamkirti620@gmail.com">gautamkirti620@gmail.com</a>
 </p>
 
 ###
@@ -37,7 +38,7 @@
 <h3 align="left">💻 Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts" alt="Programming Languages" />
   </a>
 </p>
 
@@ -104,14 +105,11 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/kirtigautam620/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo">
   </a>
-  <a href="mailto:YOUR-EMAIL" target="_blank">
+  <a href="mailto:gautamkirti620@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo">
-  </a>
-  <a href="https://mathuraprasad.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/globe/default.svg" width="52" height="40" alt="Website logo">
   </a>
 </div>
 

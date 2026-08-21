@@ -1,16 +1,25 @@
-## Hi there 👋
+## Kirti Gautam
 
-<!--
-**KirtiGautam620/KirtiGautam620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year B.Tech AI/ML student at Newton School of Technology, Pune.
+I build agentic AI systems and the full-stack products around them.
 
-Here are some ideas to get you started:
+**Currently** — Agentic AI Intern at Bugni Labs, building automation for banking and fintech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+| Project | What it does |
+|---|---|
+| **MedusaAI** | Research agent that plans, searches, and synthesizes answers |
+| **Telesana** | Telemedicine platform with patient records and scheduling |
+| **mathuraprasad.com** | Production bilingual site with WhatsApp booking and UPI payments |
+| **reneo** | Order-processing backend with concurrency handling |
+
+### Toolkit
+
+**AI / Agents** — LangGraph · Groq · RAG · tool-calling loops
+
+**Web** — React · Next.js · React Native · TypeScript
+
+**Backend** — FastAPI · Node · Supabase · PostgreSQL
+
+**Salesforce** — Lightning Web Components · Apex · SOQL

@@ -1,11 +1,11 @@
-<h4 align="center">
+<img width="558" height="510" alt="Screenshot 2026-08-21 at 10 34 52 AM" src="https://github.com/user-attachments/assets/1ecdbff1-0956-453e-b8c6-ca0cbf5b7cb6" /><h4 align="center">
   
 ```diff
-+-------------------------------+
-|╦╔═┬┬─┐┌┬┐┬  ╔═╗┌─┐┬ ┬┌┬┐┌─┐┌┬┐|
-|╠╩╗│├┬┘ │ │  ║ ╦├─┤│ │ │ ├─┤│││|
-|╩ ╩┴┴└─ ┴ ┴  ╚═╝┴ ┴└─┘ ┴ ┴ ┴┴ ┴|
-+-------------------------------+
++-----------------------------------------+
+|╦╔═ ┬ ┬─┐ ┌┬┐ ┬   ╔═╗ ┌─┐ ┬ ┬ ┌┬┐ ┌─┐ ┌┬┐|
+|╠╩╗ │ ├┬┘  │  │   ║ ╦ ├─┤ │ │  │  ├─┤ │││|
+|╩ ╩ ┴ ┴└─  ┴  ┴   ╚═╝ ┴ ┴ └─┘  ┴  ┴ ┴ ┴ ┴|
++-----------------------------------------+
 ```
 </h4>
 
@@ -25,7 +25,7 @@
 🧪 I ask too many questions and then go find out myself. <br>
 🎨 Somewhere between engineering and making things look good. <br>
 🌱 Currently deep in LangGraph, agent evals and React Native. <br>
-✉️ Connect: <a href="mailto:YOUR-EMAIL">YOUR-EMAIL</a>
+✉️ Connect: <a href="mailto:YOUR-EMAIL">gautamkirti620@gmail.com</a>
 </p>
 
 ###
@@ -46,7 +46,7 @@
 <h3 align="left">🎨 Frontend Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma" alt="Frontend Development" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma" alt="Frontend Development" />
   </a>
 </p>
 

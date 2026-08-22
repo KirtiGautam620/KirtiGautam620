@@ -121,7 +121,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirtiGautam620&theme=dark&hide_border=false&ring=E9A13B&fire=E9A13B&currStreakLabel=5FD3B0" alt="streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KirtiGautam620&theme=dark&hide_border=false&ring=E9A13B&fire=E9A13B&currStreakLabel=5FD3B0" alt="streak stats" />
 </p>
 
 ###

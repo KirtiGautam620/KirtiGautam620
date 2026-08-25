@@ -139,7 +139,7 @@
 
 <br clear="both">
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=KirtiGautam620&bg_color=0E1116&color=E6E1D7&line=E9A13B&point=5FD3B0&hide_border=true&area=true)
+![github graph](https://github-readme-activity-graph-shxc.vercel.app/graph?username=KirtiGautam620&bg_color=0E1116&color=E6E1D7&line=E9A13B&point=5FD3B0&hide_border=true&area=true)
 
 <h4 align="center">
   
